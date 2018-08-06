@@ -1,0 +1,119 @@
+{
+    "Actor": "うさみ恭香",
+    "ActorID": [
+        983
+    ],
+    "ActressesJa": [
+        "うさみ恭香"
+    ],
+    "ActressesEn": [
+        "Kyoka Usami"
+    ],
+    "ActressesList": {
+        "983": {
+            "NameJa": "うさみ恭香",
+            "NameEn": "Kyoka Usami"
+        }
+    },
+    "AvgRating": 3,
+    "CanStream": true,
+    "Conditions": null,
+    "Desc": "タレントでいえば優香にちょい似の、ちょっと天然ボケはいってる恭香ちゃん。チャームポイントはその笑顔、 映像の中でも終始笑顔を絶やさずさすがはプロって感じです。肩書きは元レースクィーン＆ヘルス上の恭香ちゃん。さすがに元レー スクィーンだけあってスタイルは抜群。今回はセーラー服で登場。初っ端からセーラーをハダケながらのカラミで 、最後にはルーズだけになっちゃって。”オマンコに入れて””オちんちんが好き”、”マンコきもちいい” などと恥ずかしい言葉はと連発しらがらアゲいちゃってました。（３９）\r\n",
+    "Duration": 1750,
+    "Expire": null,
+    "HasFlash": true,
+    "HasGallery": false,
+    "HasMemberGalleryZip": false,
+    "HasSampleGalleryZip": false,
+    "MetaMovieID": 474,
+    "MovieID": "103003_292",
+    "MovieSeq": 2508,
+    "MovieThumb": null,
+    "RealMetaMovieID": 10020,
+    "Release": "2003-10-30",
+    "Series": null,
+    "SeriesID": null,
+    "SiteID": 2470,
+    "Status": true,
+    "ThumbHigh": "http://www.1pondo.tv/moviepages/103003_292/images/popu.jpg",
+    "ThumbLow": "http://www.1pondo.tv/moviepages/103003_292/images/popu.jpg",
+    "ThumbMed": "http://www.1pondo.tv/moviepages/103003_292/images/popu.jpg",
+    "ThumbUltra": "http://www.1pondo.tv/moviepages/103003_292/images/popu.jpg",
+    "Title": "Usami Kyouka",
+    "Type": 0,
+    "Year": "2003",
+    "UC": [
+        37,
+        40
+    ],
+    "UCNAME": [
+        "ブルマ",
+        "制服"
+    ],
+    "UCNAMEEn": [
+        "Bloomers",
+        "Uniform"
+    ],
+    "UcNameList": {
+        "37": {
+            "NameEn": "Bloomers",
+            "NameJa": "ブルマ"
+        },
+        "40": {
+            "NameEn": "Uniform",
+            "NameJa": "制服"
+        }
+    },
+    "IsTicketOnly": false,
+    "MemberFiles": [
+        {
+            "FileName": "240p.mp4",
+            "FileSize": 81024963,
+            "MetaMovieID": 474,
+            "SiteID": "2470",
+            "URL": "http://dl11.1pondo.tv/member/movies/103003_292/240p.mp4"
+        },
+        {
+            "FileName": "360p.mp4",
+            "FileSize": 102951104,
+            "MetaMovieID": 474,
+            "SiteID": "2470",
+            "URL": "http://dl11.1pondo.tv/member/movies/103003_292/360p.mp4"
+        },
+        {
+            "FileName": "480p.mp4",
+            "FileSize": 212609814,
+            "MetaMovieID": 474,
+            "SiteID": "2470",
+            "URL": "http://dl11.1pondo.tv/member/movies/103003_292/480p.mp4"
+        }
+    ],
+    "SampleFiles": [
+        {
+            "FileName": "240p.mp4",
+            "FileSize": 5563915,
+            "MetaMovieID": 474,
+            "SiteID": "2470",
+            "URL": "http://smovie.1pondo.tv/sample/movies/103003_292/240p.mp4"
+        },
+        {
+            "FileName": "360p.mp4",
+            "FileSize": 7062163,
+            "MetaMovieID": 474,
+            "SiteID": "2470",
+            "URL": "http://smovie.1pondo.tv/sample/movies/103003_292/360p.mp4"
+        },
+        {
+            "FileName": "480p.mp4",
+            "FileSize": 14574306,
+            "MetaMovieID": 474,
+            "SiteID": "2470",
+            "URL": "http://smovie.1pondo.tv/sample/movies/103003_292/480p.mp4"
+        }
+    ],
+    "PPVPrice": {
+        "Regular": 0,
+        "Discount": 0,
+        "Campaign": 0
+    }
+}
